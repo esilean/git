@@ -4,3 +4,5 @@ console.log(`xxxx?.js`)
 console.log(`whatsss!`)
 console.log(`pull?.js`)
 console.log(`conflic!`)
+console.log(`feature A!`)
+
