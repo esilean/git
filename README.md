@@ -1,0 +1,3 @@
+# Git Init
+
+Studying git!
