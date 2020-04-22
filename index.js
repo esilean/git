@@ -5,3 +5,5 @@ console.log(`whatsss!`)
 console.log(`pull?.js`)
 console.log(`conflic!`)
 console.log(`new master`)
+console.log(`feature A!`)
+
